@@ -1,7 +1,7 @@
 <template>
 
     <div class="sidenav">
-      <router-link to="Home">Home</router-link>
+      <router-link to="/">Home</router-link>
       <router-link to="UserMgmt">User Management</router-link>
       <router-link to="Bot">Bot</router-link>
       <router-link to="404">Logout</router-link>
